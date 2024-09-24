@@ -8,4 +8,4 @@
 - Event handling for form submissions and click events (`addEventListener`).
 
 > [!IMPORTANT]
-> You can experience the app live here (here)['https://mani-sankar17.github.io/todo/']
+> You can experience the app [live here](https://mani-sankar17.github.io/todo/)
